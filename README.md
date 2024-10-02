@@ -39,6 +39,10 @@ This is a HTML-based CV project showcasing my skills, experience, and education.
 This project is licensed under the MIT License. Copyright 2024 Tebeth Mcklin.
 
 
+**Project URL**
+---------------
+https://roadmap.sh/projects/single-page-cv
+
 
 **Contact**
 
